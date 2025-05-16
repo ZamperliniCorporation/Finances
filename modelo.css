@@ -298,6 +298,7 @@ header {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   color: #a7ffeb;
   background-color: transparent; /* Sem fundo */
+    border-radius: 20px;
 }
 
 .servicos h2 {
@@ -326,6 +327,8 @@ header {
   overflow: hidden;
   position: relative;
   background-color: transparent; /* Sem fundo */
+  border-radius: 20px;
+  overflow: hidden;
 }
 
 
@@ -635,7 +638,6 @@ header {
 body {
   padding-bottom: 0;
 }
-
 
 
 
